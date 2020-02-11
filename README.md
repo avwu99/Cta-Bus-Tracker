@@ -7,3 +7,6 @@ To use, follow the steps commented noted in the python file.
      https://www.transitchicago.com/developers/bustracker/
 
 Can be altered to run from command line by implementing initializer. 
+
+Can also implement to work with a list of IDs, the function collect_data is formatted so you get the stop information along
+with the "Due" times. 
